@@ -2,7 +2,6 @@ package com.gzeinnumer.basicdagger2javatokotlin.dagger
 
 import com.gzeinnumer.basicdagger2javatokotlin.BaseActivity
 import com.gzeinnumer.basicdagger2javatokotlin.DaggerApplication
-import com.gzeinnumer.basicdagger2javatokotlin.MainActivity
 import dagger.Component
 import javax.inject.Singleton
 
